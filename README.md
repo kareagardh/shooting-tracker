@@ -1,6 +1,6 @@
 # Mitt i
 
-Android and IOS app to keep track of points, shooting venue, score and phot of the target.
+Android and IOS app to keep track of points, shooting venue, score and photo of the target.
 
 Easy to backup/restore all data, and super easy to use.
 
