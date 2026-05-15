@@ -34,4 +34,4 @@ Easy to backup/restore all data, and super easy to use.
   <line x1="86" y1="101" x2="106" y2="101" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
 </svg>
 
-<img width="1080" height="2340" alt="Screenshot" src="https://github.com/user-attachments/assets/86b3160f-e603-4425-a84b-3285a50bcfe2" />
+<img width="640" alt="Screenshot" src="https://github.com/user-attachments/assets/86b3160f-e603-4425-a84b-3285a50bcfe2" />
