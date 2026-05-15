@@ -8,6 +8,8 @@
       <td>
         Android and IOS app to keep track of points, shooting venue, score and photo of the target.<br>
         Easy to backup/restore all data, and super easy to use.
+        <br>
+        Installable Android APK here: https://drive.google.com/file/d/1tHkQ65jB7qV2mAI_NnxFfthG5Qnj8dw5/view?usp=sharing
       </td>
     </tr>
 </table>
